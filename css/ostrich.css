@@ -9,4 +9,4 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 980px) {.wrapper {width: 905;}}
+@media only screen and (max-width: 100px) {.wrapper {width: 905;}}
